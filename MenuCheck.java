@@ -25,7 +25,7 @@ public class MenuCheck {
 	
 		capabilities.setCapability(CapabilityType.BROWSER_NAME, "Android");
 		
-		capabilities.setCapability(CapabilityType.VERSION, "5.1.1");
+		capabilities.setCapability(CapabilityType.VERSION, "4.4.4");
 		
 		capabilities.setCapability("platformName", "Android"); 
 		capabilities.setCapability("appPackage", "com.oustme.oustapp");
